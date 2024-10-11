@@ -1,0 +1,25 @@
+p, li {
+    font-size: 18px;
+    color: ghostwhite;
+    background-color: green;
+    text-align: center;
+}
+#header {
+    text-align: center;
+    background-color: green;
+    color: ghostwhite;
+    margin: 0;
+    padding: 30px;
+}
+img {
+    width: 400px;
+}
+.review {
+    background-color: green;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
